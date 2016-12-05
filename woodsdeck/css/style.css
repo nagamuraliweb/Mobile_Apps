@@ -1,0 +1,118 @@
+/* header */
+header{width:100%;background: #202427;height: 60px;line-height:60px;position: fixed;top: 0;left: 0;float:left;z-index: 10001;}
+.container-fluid{padding-left: 0 !Important;padding-right: 0 !important;}
+.logo{text-align: center;}
+.user{text-align: center;display: block;margin: auto;position: relative;right: 20px;}
+.user1{color:#989b9e;font-size: 36px !important;}
+header a{position: absolute;top: 0px;left: 25px;}
+.fa-bars{color:#989b9e;font-size: 34px !important;}
+#menu ul li a{color: #808387 !important;font-size:16px !important;}
+.mm-navbar {display:none !important;}
+#menu ul li a span{margin-left: 5px;}
+.fa-home{font-size: 26px !important;margin-left: -2px;}
+.content{padding-top: 60px;}
+#overlay-slider{width: 100%;position: absolute;bottom: 0px;background-color: #000;z-index: 100;opacity: 0.6;padding: 18px 0;}
+#overlay-slider ol{margin-bottom: 7px;bottom: 0px;}
+#home-movies{width: 100%;float:left;background-color: #000000;padding-bottom: 10px;}
+.movies{max-width: 320px;padding: 25px 25px 10px 25px;background: linear-gradient(#373b3f, #0c0d0e);background: -webkit-linear-gradient(#373b3f, #0c0d0e);background: -o-linear-gradient(#373b3f, #0c0d0e);background: -moz-linear-gradient(#373b3f, #0c0d0e);    display: block;
+    margin: auto;}
+.movies h3{color: #9b9b9b;font-size: 18px;margin-top: 10px;}
+.movies h3 span{font-size: 12px;}
+.movies p{margin-bottom: 13px;}
+.photos{width:105px;height: 32px;line-height:28px;border:1px solid #9b9b9b;border-radius: 20px;display: inline-block;color:#9b9b9b;text-decoration: none;margin-right: 10px;text-align: center;}
+.fa-camera{color: #9b9b9b;}
+.fa-video-camera{color: #9b9b9b;}
+.photos span{margin-left: 8px;}
+.movies-photo{width: 100%;display: block;position: relative;}
+.movies-photo span{width:120px;height: 32px;line-height: 32px;text-align: center;text-transform: uppercase;color:#c9c9c9;background: #ce464f;position: absolute;bottom: 0;right:0;font-size: 14px;text-decoration: none;}
+.play{position: absolute;top:50%;left: 50%;margin-left: -20px;margin-top: -25px;}
+.movies-tab{background-color: #202427;border-bottom: 1px solid #202427 !important;}
+.movies-tab > li{width: 50%;text-align: center;}
+.movies-tab > li > a{color: #474d52 !important;border-radius: 0px !important;}
+.movies-tab > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{background-color: #202427 !important;border: 1px solid #202427 !important;border-bottom: 5px solid #f0525c !important;color: #86898c !important;}
+#movie-anniversaries{width: 100%;float: left;background-color: #000000;padding-bottom: 10px;}
+#movie-anniversaries h3{width: 100%;float: left;background: #f0525c;color: #fff;font-size: 18px;text-align: center;padding: 15px 0px;text-transform: uppercase;margin: 0px;}
+#annivesary{width: 100%;float: left;background: #202427;padding: 15px 10px;}
+#annivesary ul{margin: 0;padding: 0;list-style: none;}
+#annivesary ul li{display: block;line-height: 80px;border-bottom: 1px solid #7d8388;margin-bottom: 15px;}
+#annivesary ul li a{text-decoration: none;color: #7d8388;font-size: 16px;display: block;}
+#annivesary ul li a img{display: inline-block;border-radius: 50%;border:3px solid #7d8388;max-width: 70px;position: absolute;margin-left: 10px;}
+#annivesary ul li a span{display: inline-block;margin-left: 90px;line-height: 16px;}
+#annivesary ul li:last-child{border-bottom: none;margin-bottom: 0;}
+#celebrity-birthdays{width: 100%;float: left;}
+#celebrity-birthdays h3{width: 100%;float: left;background: #f0525c;color: #fff;font-size: 18px;text-align: center;padding: 15px 0px;text-transform: uppercase;margin: 0px;}
+#celebrity{width: 100%;float: left;background: #202427;padding: 25px 0px;text-align: center;}
+#celebrity h4{color: #7d8388;font-size: 18px;margin: 0px;text-transform: capitalize;}
+#celebrity p img{border-radius: 50%;border:3px solid #989b9e;}
+.user2{color:#4a4f52;font-size: 45px !important;}
+footer{width: 100%;float: left;padding: 15px 0px;text-align: center;background: #000000;}
+footer p{margin: 0px;color: #252525;font-size: 14px;}
+footer p span{color: #f0525c;}
+#userdetails{width:100%;height: 190px;background: url('../images/menu-bg.png') repeat-x;}
+.usr{padding: 0px !important;}
+#userdetails1{width:100%;float: left;padding: 30px 0 10px 20px;}
+#userdetails1 span{position: absolute;margin-left: 30px;color: #fff;;}
+#userdetails1 span img{border-radius: 50%;border: 3px solid #fff;width: 50px;height: 50px;}
+#userdetails1 h4{color: #fff;font-size: 18px;margin:5px 0px 0px 60px;}
+#userdetails1 p{color: #fff;font-size: 14px;margin:0px 0px 0px 61px;}
+.user3{color:#fff;font-size: 45px !important;}
+#userdetails2{width:100%;float: left;padding: 30px 0 10px 25px;}
+#userdetails2 span{margin-right: 10px;font-size: 15px;color: #fff;}
+.menuicons1{color:#fff;font-size: 24px !important;}
+.menuicons2{color:#fff;font-size: 25px !important;}
+.menuicons3{color:#fff;font-size: 18px !important;}
+.userimg3{position: relative;bottom: 3px;}
+.watchlist{width: 24px;margin-left: -3px;}
+.gallery{width: 20px;}
+.movie{width: 20px;}
+.home{width: 22px;}
+.list{width: 22px;margin-left: -1px;}
+.smiley{width: 22px;margin-left: -2px;}
+.home ~ span{position: relative;top:4px;}
+.move{position: relative;bottom: 3px;}
+.chat{position: relative;bottom: 2px;}
+
+/* movies */
+.browse{text-align: center;}
+.browse span{color: #989b9e;font-size: 28px;text-transform: uppercase;}
+
+/* stories */
+.stories{width: 100%;float: left;background-color: #000000;padding-bottom: 10px;}
+.story-top{width: 100%;float: left;background-color: #2e3236;padding: 10px 20px;min-height: 84px;}
+.story-top img{position: absolute;left: 10px;border-radius: 5px;}
+.story-top h3{color: #abadaf;font-size: 16px;margin:4px 0px 0px 70px;}
+.story-top p{color: #6a6d70;font-size: 14px;margin:5px 0px 0px 70px;}
+.story-photo{width: 100%;float: left;position: relative;}
+.arrow{position: absolute;top:0px;left:36px;}
+.story-photo p{color: #fff;font-size: 14px;position: absolute;bottom: 25px;left:20px;padding-right: 20px;}
+.readmore{width:120px;height: 32px;line-height: 32px;text-align: center;color:#fef6f6;background: #f0515d;position: absolute;bottom: 0;right:0;font-size: 14px;text-decoration: none;}
+.story-chat{width:100%;float: left;padding: 15px 10px;background: #2e3236;}
+.story-chattop{width:100%;float: left;margin-bottom: 15px;}
+.likes{margin-right: 8px;}
+.likes img{width: 22px;}
+.likes span{color: #808385;font-size: 13px;margin-left: 4px;}
+.cmts{margin-right: 8px;}
+.cmts img{width: 22px;}
+.cmts span{color: #808385;font-size: 13px;margin-left: 4px;}
+.artcls{}
+.artcls img{width: 20px;}
+.artcls span{color: #808385;font-size: 13px;margin-left: 4px;}
+.story-chatbot{width:100%;float: left;position: relative;}
+.chatinput{width:100%;padding-right: 74px;float: left;height: 44px;padding-left: 10px;background: #202427;border:1px solid #626669;border-right: none;color: #474b4f;font-size: 14px;border-radius: 7px;}
+.submit{width:74px;height: 44px;text-indent: -9999px;position: absolute;right: 0px;z-index: 1000;border: none;background: url('../images/submit.png') no-repeat;}
+.stories:last-child{padding-bottom: 0;}
+
+/* movies */
+.allmovies-tab{background-color: #202427;border-bottom: 1px solid #202427 !important;}
+.allmovies-tab > li{width: 25%;text-align: center;}
+.allmovies-tab > li > a{color: #474d52 !important;border-radius: 0px !important;}
+.allmovies-tab > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{background-color: #202427 !important;border: 1px solid #202427 !important;border-bottom: 5px solid #f0525c !important;color: #86898c !important;}
+.allmovies{max-width: 320px;display: block;margin: auto;background: #000;position: relative;}
+.moviebg{position: absolute;bottom: 0;left: 0;}
+.move-top{width:100%;float: left;position: absolute;bottom: 40px;padding: 0 20px;}
+.move-top h2{color: #fff;font-size: 16px;text-transform: uppercase;margin-bottom: 2px;}
+.move-top p{color: #fff;font-size: 13px;}
+.move-bot{width:100%;float: left;position: absolute;bottom: 15px;padding: 0 20px;}
+.move-bot span{margin-right: 10px;}
+.move-bot span span{color: #fff;font-size: 14px;margin-left: 10px;position: relative;top:2px;}
+.language{color: #d2ab48;font-size: 16px;text-transform: uppercase;position: relative;top:2px;}

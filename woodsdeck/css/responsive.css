@@ -1,0 +1,38 @@
+@media screen and (min-width: 450px) {
+    .movies{display: inline-block;}
+    .movies h3{text-align: left;}
+    .movies p{text-align: left;}
+    .tab-content{text-align: center;background-color: #000;display: block;}
+    #annivesary ul li a{font-size: 18px;}
+    #celebrity-birthdays h3,#movie-anniversaries h3,#celebrity h4{font-size: 20px;}
+    footer p{font-size: 16px;}
+    .movies h3{font-size: 20px;}
+    .photos{width: 110px;font-size: 16px;}
+    .nav-tabs > li > a{font-size: 18px;}
+    #menu ul li a{font-size: 18px !important;}
+    .mm-listview{line-height: 34px !important;}
+    #menu ul li a span {margin-left: 10px;}
+    #userdetails1 h4{font-size: 20px;}
+    #userdetails1 p{font-size: 16px;}
+    .menuicons1{font-size: 30px !important;}
+    #userdetails2 span{font-size: 18px;}
+    .menuicons2{font-size: 28px !important;}
+    .menuicons3{font-size: 24px !important;}
+    .user3{font-size: 55px !important;}
+    #userdetails1 h4{margin-left: 70px;}
+    #userdetails1 p{margin-left: 71px;}
+    .user{margin-top: -2px;right: -5px;}
+    #annivesary{padding: 15px 20px;}
+    .story-top h3{font-size: 18px;margin: 9px 0px 0px 70px;}
+    .story-top p{font-size: 16px;}
+    .story-photo p{font-size: 16px;}
+    .likes,.cmts{margin-right: 10px;}
+    .likes img{width: auto;}
+    .likes span{font-size: 16px;margin-left: 10px;position: relative;top: 2px;}
+    .cmts img{width: auto;}
+    .cmts span{font-size: 16px;margin-left: 10px;position: relative;top: 2px;}
+    .artcls img{width: auto;}
+    .artcls span{font-size: 16px;margin-left: 10px;position: relative;top: 2px;}
+    .stories{padding-bottom: 15px;}
+    .allmovies{text-align: left;}
+}
